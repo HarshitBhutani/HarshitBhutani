@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate with new people where I can get opportunities to learn
 - 💬 Ask me about C, C++, Java, HTML, CSS, React.js, Node.js, MySQL 
-- 📫 How to reach me: https://www.linkedin.com/in/harshitbhutani/ https://www.instagram.com/harshit_bhutani_/ https://leetcode.com/u/harshit_bhutani_/ https://www.naukri.com/code360/profile/HarshitBhutani
+- 📫 How to reach me:
+- https://www.linkedin.com/in/harshitbhutani/
+- https://www.instagram.com/harshit_bhutani_/
+- https://leetcode.com/u/harshit_bhutani_/
+- https://www.naukri.com/code360/profile/HarshitBhutani
 - ⚡ Fun fact: I think I am funny
 
