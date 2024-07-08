@@ -1,17 +1,17 @@
 ![1_iND_uCSZM-UMdl5v5XxijA](https://github.com/HarshitBhutani/HarshitBhutani/assets/102902393/966a8370-3ced-427f-b83e-3c2052132382)
 
 
-## Hi 👋, I'm Harshit Bhutani
+## Hi 👋, I'm Vanshika
 
 - 🔭 I’m currently working on a React.js web project
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate with new people where I can get opportunities to learn
 - 💬 Ask me about C, C++, Java, HTML, CSS, React.js, Node.js, MySQL 
 - 📫 How to reach me:
-- https://www.linkedin.com/in/harshitbhutani/
+<!--- https://www.linkedin.com/in/harshitbhutani/
 - https://www.instagram.com/harshit_bhutani_/
 - https://leetcode.com/u/harshit_bhutani_/
-- https://www.naukri.com/code360/profile/HarshitBhutani
+- https://www.naukri.com/code360/profile/HarshitBhutani -->
 - ⚡ Fun fact: I think I am funny
 
 ## 🛠️ Languages and Tools :
